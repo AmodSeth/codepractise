@@ -1,2 +1,2 @@
 # codepractise
-basics bits problems
+basics bits problems in bits practise folder 
